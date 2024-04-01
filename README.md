@@ -5,13 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvahasumit&label=Profile%20views&color=0e75b6&style=flat" alt="kushvahasumit" /> </p>
 - 🌱 I’m currently learning **React,Nodejs**
 
-
-
 - 💬 Ask me about **C++**
 
 - 📫 How to reach me **abhishek7370004668@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing](https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sheepish person😅**
 
