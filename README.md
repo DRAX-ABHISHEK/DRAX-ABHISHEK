@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://upload.wikimedia.org/wikipedia/commons/f/f5/Computer-screen-code-glitch-animation-gif-background-free.gif">
+<img align="right" alt="coding" width="400" src="File:Computer-screen-code-glitch-animation-gif-background ...2,500 × 1,669">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvahasumit&label=Profile%20views&color=0e75b6&style=flat" alt="kushvahasumit" /> </p>
 - 🌱 I’m currently learning **React,Nodejs**
 
