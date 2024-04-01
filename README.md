@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/DRAX-ABHISHEK/DRAX-ABHISHEK/assets/128922329/f664bba1-ed25-4777-9ead-267399f90a5e
+<img align="right" alt="coding" width="400" src="https://github.com/DRAX-ABHISHEK/DRAX-ABHISHEK/assets/128922329/3a22a7e2-0ada-4abd-9884-29d5b54560bc
+
 ">
 
 - 🌱 I’m currently learning **React,Nodejs**
