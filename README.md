@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/DRAX-ABHISHEK/DRAX-ABHISHEK/assets/128922329/5fd3cc6b-13bb-457a-838b-aebf430cac67
-">
+<img align="right" img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushvahasumit&label=Profile%20views&color=0e75b6&style=flat" alt="kushvahasumit" /> </p>
 - 🌱 I’m currently learning **React,Nodejs**
 
-- 📝 I like to read manga at [https://mangareader.to/](https://mangareader.to/)
+
 
 - 💬 Ask me about **C++**
 
