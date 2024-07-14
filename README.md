@@ -12,14 +12,15 @@
 
 
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++,Web Development**
 
 - 📫 How to reach me **abhishek7370004668@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing](https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sheepish person😅**
-- - 📝 I like to read manga at [https://mangareader.to/](https://mangareader.to/)
+  
+- 📝 I like to read manga at [https://mangareader.to/](https://mangareader.to/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
