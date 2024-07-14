@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs**
 
-- 📝 I like to read manga at [https://mangareader.to/](https://mangareader.to/)
+
 
 - 💬 Ask me about **C++**
 
@@ -19,6 +19,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing](https://drive.google.com/file/d/198xaTV95IFOCcNbUMaSg8Odo3q-HVhcR/view?usp=sharing)
 
 - ⚡ Fun fact **I am Sheepish person😅**
+- - 📝 I like to read manga at [https://mangareader.to/](https://mangareader.to/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
